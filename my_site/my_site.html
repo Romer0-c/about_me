@@ -4,24 +4,106 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome!</title>
+    <link rel="stylesheet" href="../assets/css/reset.css" />
+    <!--<link rel="stylesheet" href="../css/style.css" /> -->
 </head>
+<!--Temp CSS -->
+<style>
+    body {
+        background-color: rgb(31, 29, 29);
+    }
+
+    header {
+        align-items: center;
+        background-color: grey;
+        color: white;
+    }
+
+    button {
+        background-color: black;
+        color: white;
+        border-color: white;
+    }
+
+    h2 {
+        background-color: black;
+        color: white;
+        border-color: white;
+    }
+
+    footer {
+        background-color: white;
+        color: grey;
+    }
+</style>
+
+
 <body>
-    <!--My Name-->
-    <header></header>
+    <header>
+        <!--My Name - this is to be centered and bold-->
+        <h1>Christian Romero</h1>
+        <!--These are 4 buttons that light up when hovered over-->
+        <nav>
+            <!--add 4 buttons here-->
+            <button type="button">ABOUT</button>
+            <button type="button">CONTACT</button>
+            <button type="button">PROJECTS</button>
+            <button type="button">LINKS</button>
+        </nav>
+        <!--I think I want this hero image to be the whole background for the header and the nav- Needs research-->
+        <figure></figure>
+    </header>
 
-    <!--These are 4 buttons that light up when hovered over-->
-    <nav></nav>
 
-    <!--I think I want this hero image to be the whole background for the header and the nav- Needs research-->
-    <figure></figure>
-    <!--This section should have 2 equal divs for both the "about me" and "contact" sections-->
-    <section></section>
-    <!-- Project blocks - Desktop 3x2
-    Mobile 1X1-->
+    <main>
+        <!--This section should have 4 equal divs. while in desktop mode they will be closed until hovered. the top 2 divs will be  "about me" and "contact". 3rd is are the blox sections are for projects last is links
+        when in mobile divs boards will shrink except for the title. The tile word for each div will become a button-->
+        <section>
+            <!--about me-->
+            <article>
+                <h2>About me</h2>
+                <div>
+                    <p>
+                    Platea dictumst vestibulum rhoncus est. Ipsum consequat nisl vel pretium lectus quam id leo in. Ultrices gravida dictum fusce ut placerat orci. Diam quam nulla porttitor massa id neque. Viverra vitae congue eu consequat ac felis donec et. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Ut diam quam nulla porttitor massa. Ultricies integer quis auctor elit. Pulvinar elementum integer enim neque volutpat ac. Elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Et malesuada fames ac turpis egestas integer eget aliquet. Leo a diam sollicitudin tempor id eu nisl nunc mi. In hac habitasse platea dictumst. Interdum varius sit amet mattis vulputate enim. Id faucibus nisl tincidunt eget nullam non nisi. Vulputate mi sit amet mauris commodo quis. Sit amet nisl suscipit adipiscing bibendum est ultricies. Facilisis leo vel fringilla est. Est placerat in egestas erat imperdiet sed. Montes nascetur ridiculus mus mauris vitae ultricies leo.                
+                    </p>
+                </div>
+            </article>
+            <!--Contact Form Perhaps?-->
+            <article>
+                <h2>Contact</h2>
+                <div>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam vel quam elementum pulvinar. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Eget duis at tellus at urna condimentum mattis pellentesque id.
+                    </p>
+                </div>
+            </article>
+            <!-- project blox. when in desktop 3X2 when in mobile 1x1 -->
+            <article>
+                <h2>Projects</h2>
+                <div>
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam vel quam elementum pulvinar. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Eget duis at tellus at urna condimentum mattis pellentesque id.
+                    </p>
+                </div>
+            </article>
+            <article>
+                <!--This is the "links" Div. Im thinking buttons with icon logos for the links. -->
+                <h2>Links</h2>
+                <ul>
+                    <li><a href=>GITHUB</a></li>
+                    <li><a href=>LINKDIN</a></li>
+                    <li><a href=>RESUME</a></li>
+                  </ul>
+            </article>
+        </section>
+    </main>    
 
-    <section2></section2>
+    <footer>
+        <span>Live long and prosper. &#128406; </span>
+    </footer>
+
+
      
-    <!--This is the "links" Div. Im thinking buttons with icon logos for the links. -->
-    <div></div>
+    
 </body>
 </html>
