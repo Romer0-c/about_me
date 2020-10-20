@@ -1,25 +1,41 @@
-# Accessibility 
+# About Me 
 
-The Internet is a resource that should be accessible to all. Our site has some examples of the assesibility standards set for the internet. It is illegal to not include these types of accessiblity tools on your site. It ensures that those who cannot easily intake the information through vision can still access the essential information of the website services we provide.
+This site is built to convey my personal brand and used as a way to see a brief history of my development experience.
 
-## SEO
+# Basic layout
 
-SEO stands for Seach Engine Optimization. It is when search engines such as Google or Bing run a virtual scan of your site to help faster display the content of your website to your virtual audience. Top scores for many SEO metrics can help drive revenue by displaying your site on the top of the search results for your prospective customer. These SEO standards are practiced by any leading marketing team as to help allow for both new traffic and in turn raise ROI of websites sales results. 
+This page will be built in a one page structure with links to other items that display my work. 
+Links are listed at the bottom of the pagge 
 
-[Google's guide to best SEO Practices](https://support.google.com/webmasters/answer/7451184?hl=en)
+[ADD LINKS HERE TOO](https://support.google.com/webmasters/answer/7451184?hl=en)
 
-## HTML Modification
+# HTML Modification
 
-We modified some semantic HTML elements to help with both SEO and accessibility metrics. 
-The customizations followed were based of best practice standards on the article linked below.
+the colors are ment to be dark monochromatic 
+the hyperlinks to other projects should be very colorful and will glow when hovered over. 
 
-[html reference guide](https://www.w3schools.com/html/html_accessibility.asp)
 
-## Assets
+[idk add another link here or something](https://www.w3schools.com/html/html_accessibility.asp)
 
-The following site: 
+# Assets
+
+show a screenshot of the end result: 
 [Deployment environment](https://romer0-c.github.io/seo_optimization/)
 
 ![The following link shows an example of the sites overall layout](assets/01-html-css-git-homework-demo.png)
+
+
+# Design
+show a screenshot of the way it looks when the pixel dimensions are smaller
+
+
+Its important to recognize the ability to project manage the building of the site too. 
+dev work isnt only about the way the site is built but also understanding the project timeline associated with a site. 
+ALTHOUGH I DONT HAVE A LOT OF PROJECTS - MAKE SURE TO HIGHLIGHT SKILLS THAT SHOW DEDICATION TO LEARNING AND PROCESS IMPROVEMENT. 
+
+sleak desgin with only a few colors to help highlight the projects section as the main focal point. 
+Draw the visitor to the projects section. 
+
+LEARN MORE ABOUT PROJECT MANAGEMENT FOR A BUILD OF THE SITE TO INCORPORATE INTO THE CONTENT. 
 
 --
