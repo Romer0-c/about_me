@@ -1,7 +1,67 @@
 body {
-    background-color: grey;
+    background-color: rgb(31, 29, 29);
+    padding: 2%;
+    /* margin: 25px 50px 75px 100px; */
+    font-family: 'Courier New', Courier, monospace;
+}
+main{
+    margin: auto;
+    width: 70%;
+    /* padding: 25px 50px 75px 100px; */
 }
 
 header {
+    align-items: center;
+    background: grey;
+    color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+#specialButton {
+    background-color: dodgerblue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+button:hover {
+    background-color: pink;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 25%;
+    float: left;
+}
+
+footer {
+    background-color: white;
+    color: grey;
+    text-align: center;
+}
+
+article {
     background-color: grey;
+}
+p {
+    background-color: grey;
+    border: medium outset white;
+    text-align: center;
+    color: white;
+}
+
+h1, h2 {
+   border-left: medium solid green;
+}
+
+ul {
+list-style-type: none;
 }
