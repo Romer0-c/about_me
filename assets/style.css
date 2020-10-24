@@ -15,6 +15,9 @@ header {
     background: grey;
     color: white;
 }
+header.nav {
+
+}
 .picture{
     height: 150px;
     width: 175px;
@@ -36,7 +39,7 @@ button {
 }
 
 button:hover {
-    background-color: pink;
+    background-color: yellowgreen;
 }
 
 h2 {
@@ -66,9 +69,67 @@ p, div{
     text-align: center;
     color: white;
 }
+a:link, a:visited {
+        background-color: rgb(38, 10, 136);
+        color: white;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background-color: yellowgreen;
+      }
+}
+
+#myPortfolio {
+    position: relative;
+
+}
+
+.portfolioMainBlock{
+    width: 85%;
+    border-left: white;
+    border-style: solid;
+    padding: 1rem;
+    position: relative;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.project {
+    background-image: url(./images/honeycomb.jpg);
+    width: 25%;
+    height: 150px;
+    padding: 1rem;
+    margin: 2rem;
+    font-size: 2rem;
+    border-radius: 5%;
+    z-index: 0;
+}
+
+.project:hover{
+    
+    width: 25%;
+    height: 250px;
+    z-index: 2;
+    transition: 1s;
+}
+
+.project figure h3 {
+    position: absolute;
+    border-style: outset;
+    border-color: white;
+    border-width: .5rem;
+    padding: .1rem;
+    border-radius: 5%;
+}
 
 h1, h2 {
-   border-left: medium solid green;
+   border-left: medium solid rgb(224, 231, 224);
 }
 
 ul {
