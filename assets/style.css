@@ -48,10 +48,10 @@ footer {
     text-align: center;
 }
 
-article {
+section {
     background-color: grey;
 }
-p {
+p, div{
     background-color: grey;
     border: medium outset white;
     text-align: center;
@@ -64,4 +64,8 @@ h1, h2 {
 
 ul {
 list-style-type: none;
+}
+
+.clearfix {
+    overflow: auto;
 }
