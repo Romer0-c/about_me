@@ -17,11 +17,9 @@
             <img class="picture" src="./assets/images/christianromero.jpg" alt="Picture of Christian Romero"></ima>
         </figure>
         <nav>
-            <!--add 4 buttons here-->
-            <button type="button" class="blue">ABOUT</button>
-            <button type="button" class="blue">CONTACT</button>
-            <button type="button" class="blue">PROJECTS</button>
-            <button type="button" class="blue">LINKS</button>
+            <a href="#aboutme">About Me</a>
+            <a href="#mywork">My Work</a>
+            <a href="#contact">Contact</a>
         </nav>
         <!--I think I want this hero image to be the whole background for the header and the nav- Needs research-->
     </header>
@@ -31,7 +29,7 @@
         when in mobile divs boards will shrink except for the title. The tile word for each div will become a button-->
         <!--about me-->
         <section>
-            <h2>About me</h2>
+            <h2 id="aboutme">About me</h2>
             
                 <p>
                     Platea dictumst vestibulum rhoncus est. Ipsum consequat nisl vel pretium lectus quam id leo in.
@@ -52,7 +50,7 @@
         </section>
         <!-- project blox. when in desktop 3X2 when in mobile 1x1 -->
         <section id="myPortfolio">
-            <h2>My Work</h2>
+            <h2 id="mywork">My Work</h2>
             
                 <figure class="portfolioMainBlock">
                     <a class="project" target="_blank" href="./assets/images/honeycomb.jpg">
@@ -80,13 +78,14 @@
         </section>
         <section>
             <!--This is the "links" Div. Im thinking buttons with icon logos for the links. -->
-            <h2>Links class</h2>
+            <h2 id="contact">Contact</h2>
             <div class="clearfix">
                 <a href="https://www.linkedin.com/in/christian-romero-rhcsa-4817a7bb" target="_blank">LinkdIn</a>
                 <a href="https://github.com/Romer0-c" target="_blank">GitHub</a>
-                
+                <a href="mailto:example@email.com" target="_blank">Email</a>
             
             </div>
+            <div></div>
         </section>
     </main>
 
