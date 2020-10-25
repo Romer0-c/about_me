@@ -7,8 +7,6 @@ This site is built to convey my personal brand and used as a way to see a brief 
 This page will be built in a one page structure with links to other items that display my work. 
 Links are listed at the bottom of the pagge 
 
-[ADD LINKS HERE TOO](https://support.google.com/webmasters/answer/7451184?hl=en)
-
  [LinkedIn](https://www.linkedin.com/in/christian-romero-rhcsa-4817a7bb) 
  [GitHub](https://github.com/Romer0-c) 
  [Email doesnt work intentionally as a measure of security](mailto:example@email.com)
@@ -19,9 +17,10 @@ the colors are meant to be dark monochromatic
 
 # Assets
 
-show a screenshot of the end result: 
+The live site resides at this url: 
 [Deployment environment](https://romer0-c.github.io/about_me/)
 
+This is an example of what the site should look like: 
 ![The following link shows an example of the sites overall layout](assets/images/websiteexample.png)
 
 
