@@ -9,20 +9,20 @@ Links are listed at the bottom of the pagge
 
 [ADD LINKS HERE TOO](https://support.google.com/webmasters/answer/7451184?hl=en)
 
+ [LinkedIn](https://www.linkedin.com/in/christian-romero-rhcsa-4817a7bb) 
+ [GitHub](https://github.com/Romer0-c) 
+ [Email doesnt work intentionally as a measure of security](mailto:example@email.com)
+
 # HTML Modification
 
-the colors are ment to be dark monochromatic 
-the hyperlinks to other projects should be very colorful and will glow when hovered over. 
-
-
-[idk add another link here or something](https://www.w3schools.com/html/html_accessibility.asp)
+the colors are meant to be dark monochromatic 
 
 # Assets
 
 show a screenshot of the end result: 
-[Deployment environment](https://romer0-c.github.io/seo_optimization/)
+[Deployment environment](https://romer0-c.github.io/about_me/)
 
-![The following link shows an example of the sites overall layout](assets/01-html-css-git-homework-demo.png)
+![The following link shows an example of the sites overall layout](assets/images/websiteexample.png)
 
 
 # Design
@@ -33,8 +33,7 @@ Its important to recognize the ability to project manage the building of the sit
 dev work isnt only about the way the site is built but also understanding the project timeline associated with a site. 
 ALTHOUGH I DONT HAVE A LOT OF PROJECTS - MAKE SURE TO HIGHLIGHT SKILLS THAT SHOW DEDICATION TO LEARNING AND PROCESS IMPROVEMENT. 
 
-sleak desgin with only a few colors to help highlight the projects section as the main focal point. 
-Draw the visitor to the projects section. 
+sleak design with only a few colors to help highlight the projects section as the main focal point. 
 
 LEARN MORE ABOUT PROJECT MANAGEMENT FOR A BUILD OF THE SITE TO INCORPORATE INTO THE CONTENT. 
 
